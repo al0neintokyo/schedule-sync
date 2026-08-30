@@ -1,0 +1,2066 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//schedule-sync//ru//
+X-WR-CALNAME:Расписание
+BEGIN:VEVENT
+SUMMARY:Разработка информационных систем с 
+ цифровым следом
+DTSTART:20260901T134500
+DTEND:20260901T151500
+UID:e3b3034ab441265c0e9cc9a3cbc6e42cb2c40f37@schedule-sync
+DESCRIPTION:Преподаватель: Черёмухин А. Д.\nЛек
+ ционные занятия
+LOCATION:217
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Развертывание моделей в предметной 
+ среде
+DTSTART:20260901T152500
+DTEND:20260901T165500
+UID:5f7f159601ce1d26ebc487fbe8984d5c6674408d@schedule-sync
+DESCRIPTION:Преподаватель: Черёмухин А. Д.\nПра
+ ктические занятия
+LOCATION:214А
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Методы машинного обучения
+DTSTART:20260902T134500
+DTEND:20260902T151500
+UID:ae18ff75d8e075107c8b4657948615ffd3fbdfc7@schedule-sync
+DESCRIPTION:Преподаватель: Черёмухин А. Д.\nПра
+ ктические занятия
+LOCATION:213
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Методы машинного обучения
+DTSTART:20260902T120500
+DTEND:20260902T133500
+UID:2032335b0f7a670854b9467e721b358c0a328e99@schedule-sync
+DESCRIPTION:Преподаватель: Черёмухин А. Д.\nПра
+ ктические занятия
+LOCATION:219
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Управление проектами в профессиона
+ льной деятельности
+DTSTART:20260902T152500
+DTEND:20260902T165500
+UID:670b2a4c64b2ce29c93a5d5c2ed00f1734d3e5a0@schedule-sync
+DESCRIPTION:Преподаватель: Сутягина Н. И.\nПрак
+ тические занятия
+LOCATION:214А
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Сети и телекоммуникации
+DTSTART:20260903T120500
+DTEND:20260903T133500
+UID:418c3188a74e58adb0593d6c0c22ca4a13e20675@schedule-sync
+DESCRIPTION:Преподаватель: Толикина М. Ю.\nЛекц
+ ионные занятия
+LOCATION:221В
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Обработка данных цифрового следа
+DTSTART:20260903T152500
+DTEND:20260903T165500
+UID:bcf9cb137ec515fd524e0fa3c39b47b726fa6077@schedule-sync
+DESCRIPTION:Преподаватель: Криволапов И. В.\nПр
+ актические занятия
+LOCATION:Дистанционно
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Защита информации
+DTSTART:20260904T120500
+DTEND:20260904T133500
+UID:9bdd52ff8b5687c44de4cfbdb655f0a8689ac0c5@schedule-sync
+DESCRIPTION:Преподаватель: Абувалов М. А.\nЛекц
+ ионные занятия
+LOCATION:210
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Разработка информационных систем с 
+ цифровым следом
+DTSTART:20260904T134500
+DTEND:20260904T151500
+UID:1c6bc138d6d5652da8636ac5a28fcd50e2abc25d@schedule-sync
+DESCRIPTION:Преподаватель: Митин А. Н.\nПрактич
+ еские занятия
+LOCATION:207
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Методы машинного обучения
+DTSTART:20260907T134500
+DTEND:20260907T151500
+UID:d9811b4d7cab382be42d4db511e04de951677751@schedule-sync
+DESCRIPTION:Преподаватель: Черёмухин А. Д.\nПра
+ ктические занятия
+LOCATION:209А
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Методы машинного обучения
+DTSTART:20260908T134500
+DTEND:20260908T151500
+UID:8458a03010a59ae4daddea05e2bab12b006ba89d@schedule-sync
+DESCRIPTION:Преподаватель: Черёмухин А. Д.\nЛек
+ ционные занятия
+LOCATION:207
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Развертывание моделей в предметной 
+ среде
+DTSTART:20260908T152500
+DTEND:20260908T165500
+UID:372aea7fd8faf2429d6e2fe06fe2e50d941da29e@schedule-sync
+DESCRIPTION:Преподаватель: Черёмухин А. Д.\nПра
+ ктические занятия
+LOCATION:214А
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Развертывание моделей в предметной 
+ среде
+DTSTART:20260909T134500
+DTEND:20260909T151500
+UID:3bfb47c309635307ab9e1aca1134657917715b7c@schedule-sync
+DESCRIPTION:Преподаватель: Черёмухин А. Д.\nЛек
+ ционные занятия
+LOCATION:213
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Методы машинного обучения
+DTSTART:20260909T120500
+DTEND:20260909T133500
+UID:92ca4455653f942d156d5486f85a290714b48f45@schedule-sync
+DESCRIPTION:Преподаватель: Черёмухин А. Д.\nПра
+ ктические занятия
+LOCATION:219
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Управление проектами в профессиона
+ льной деятельности
+DTSTART:20260909T152500
+DTEND:20260909T165500
+UID:733a6659ae14eee6c485192e8a037179cfb8ac68@schedule-sync
+DESCRIPTION:Преподаватель: Сутягина Н. И.\nПрак
+ тические занятия
+LOCATION:214А
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Сети и телекоммуникации
+DTSTART:20260910T094000
+DTEND:20260910T111000
+UID:12d53d36ab121aa9ea2aad5bf552746157e0695d@schedule-sync
+DESCRIPTION:Преподаватель: Толикина М. Ю.\nЛекц
+ ионные занятия
+LOCATION:219
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Управление проектами в профессиона
+ льной деятельности
+DTSTART:20260910T134500
+DTEND:20260910T151500
+UID:255df93e7ce7a27bb839b536663ec03c9484557c@schedule-sync
+DESCRIPTION:Преподаватель: Иванов И. А.\nЛекцио
+ нные занятия
+LOCATION:209А
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Обработка данных цифрового следа
+DTSTART:20260910T120500
+DTEND:20260910T133500
+UID:7d0d7579e4270442fe7d3cf93c4e3f318ee1bf05@schedule-sync
+DESCRIPTION:Преподаватель: Черёмухин А. Д.\nЛек
+ ционные занятия
+LOCATION:214
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Обработка данных цифрового следа
+DTSTART:20260910T152500
+DTEND:20260910T165500
+UID:fafcd7c5f445211623e87b7613b1e448bda3e482@schedule-sync
+DESCRIPTION:Преподаватель: Криволапов И. В.\nПр
+ актические занятия
+LOCATION:Дистанционно
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Защита информации
+DTSTART:20260911T120500
+DTEND:20260911T133500
+UID:dabef316e1663809e9601083711ef1a0d293d122@schedule-sync
+DESCRIPTION:Преподаватель: Абувалов М. А.\nПрак
+ тические занятия
+LOCATION:210
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Разработка информационных систем с 
+ цифровым следом
+DTSTART:20260911T134500
+DTEND:20260911T151500
+UID:d007a60889b2a804aa93774023725785787b1b9e@schedule-sync
+DESCRIPTION:Преподаватель: Митин А. Н.\nПрактич
+ еские занятия
+LOCATION:207
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Методы машинного обучения
+DTSTART:20260914T134500
+DTEND:20260914T151500
+UID:219db4c9dec5ebf8675db7e6c9d9c66a96e1ed8e@schedule-sync
+DESCRIPTION:Преподаватель: Черёмухин А. Д.\nПра
+ ктические занятия
+LOCATION:209А
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Разработка информационных систем с 
+ цифровым следом
+DTSTART:20260915T134500
+DTEND:20260915T151500
+UID:9cbe938b6fe86df4d6fc5baa0b1c48e517fa9fdc@schedule-sync
+DESCRIPTION:Преподаватель: Черёмухин А. Д.\nЛек
+ ционные занятия
+LOCATION:217
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Развертывание моделей в предметной 
+ среде
+DTSTART:20260915T152500
+DTEND:20260915T165500
+UID:d2e9d8bd015887f8228cb2a8207a46d3b740a6b4@schedule-sync
+DESCRIPTION:Преподаватель: Черёмухин А. Д.\nПра
+ ктические занятия
+LOCATION:214А
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Методы машинного обучения
+DTSTART:20260916T134500
+DTEND:20260916T151500
+UID:23fc61fdb0b52af8dceff6c10a1b4e5b13c79b5c@schedule-sync
+DESCRIPTION:Преподаватель: Черёмухин А. Д.\nПра
+ ктические занятия
+LOCATION:213
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Методы машинного обучения
+DTSTART:20260916T120500
+DTEND:20260916T133500
+UID:a93a78a18918cf8b0e8f8736f3e3ea65c81b7850@schedule-sync
+DESCRIPTION:Преподаватель: Черёмухин А. Д.\nПра
+ ктические занятия
+LOCATION:219
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Управление проектами в профессиона
+ льной деятельности
+DTSTART:20260916T152500
+DTEND:20260916T165500
+UID:c5d50595af55a7492de4adccbc89ce4fd2ac0832@schedule-sync
+DESCRIPTION:Преподаватель: Сутягина Н. И.\nПрак
+ тические занятия
+LOCATION:214А
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Сети и телекоммуникации
+DTSTART:20260917T120500
+DTEND:20260917T133500
+UID:e948bb93c7522913a989f775d72cf1d6ae6c31dd@schedule-sync
+DESCRIPTION:Преподаватель: Толикина М. Ю.\nЛекц
+ ионные занятия
+LOCATION:221В
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Обработка данных цифрового следа
+DTSTART:20260917T152500
+DTEND:20260917T165500
+UID:a04990a7c8cce9ae33cfb0cab625ea975ddb5489@schedule-sync
+DESCRIPTION:Преподаватель: Криволапов И. В.\nПр
+ актические занятия
+LOCATION:Дистанционно
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Защита информации
+DTSTART:20260918T120500
+DTEND:20260918T133500
+UID:0e2eb258dd0f60d5af0b40258824b60e3fc2b3ac@schedule-sync
+DESCRIPTION:Преподаватель: Абувалов М. А.\nЛекц
+ ионные занятия
+LOCATION:210
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Разработка информационных систем с 
+ цифровым следом
+DTSTART:20260918T134500
+DTEND:20260918T151500
+UID:2ef4e07dda0c963f548472caba16a0144a5862e7@schedule-sync
+DESCRIPTION:Преподаватель: Митин А. Н.\nПрактич
+ еские занятия
+LOCATION:207
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Методы машинного обучения
+DTSTART:20260921T134500
+DTEND:20260921T151500
+UID:2f3ec3467ae8d1f22f425d9c11411bdf223fcf4d@schedule-sync
+DESCRIPTION:Преподаватель: Черёмухин А. Д.\nПра
+ ктические занятия
+LOCATION:209А
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Методы машинного обучения
+DTSTART:20260922T134500
+DTEND:20260922T151500
+UID:b0b0c907c5b75ceff4b29f826dcba7fd3f4c3739@schedule-sync
+DESCRIPTION:Преподаватель: Черёмухин А. Д.\nЛек
+ ционные занятия
+LOCATION:207
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Развертывание моделей в предметной 
+ среде
+DTSTART:20260922T152500
+DTEND:20260922T165500
+UID:a93b89ff0cdc25247343fa238cfaeb71cde94ddd@schedule-sync
+DESCRIPTION:Преподаватель: Черёмухин А. Д.\nПра
+ ктические занятия
+LOCATION:214А
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Развертывание моделей в предметной 
+ среде
+DTSTART:20260923T134500
+DTEND:20260923T151500
+UID:3e614aad35314dd820edc6bd6260a1433324d249@schedule-sync
+DESCRIPTION:Преподаватель: Черёмухин А. Д.\nЛек
+ ционные занятия
+LOCATION:213
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Методы машинного обучения
+DTSTART:20260923T120500
+DTEND:20260923T133500
+UID:23f4f5dc7b76138251d789fddff3db6c7efd2a8e@schedule-sync
+DESCRIPTION:Преподаватель: Черёмухин А. Д.\nПра
+ ктические занятия
+LOCATION:219
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Управление проектами в профессиона
+ льной деятельности
+DTSTART:20260923T152500
+DTEND:20260923T165500
+UID:71d746d8135b06e6a3d2ba9cf2696c0f5df7674a@schedule-sync
+DESCRIPTION:Преподаватель: Сутягина Н. И.\nПрак
+ тические занятия
+LOCATION:214А
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Сети и телекоммуникации
+DTSTART:20260924T094000
+DTEND:20260924T111000
+UID:62b6ae49a63857f8d164e41ad6c5a83f9bf07a65@schedule-sync
+DESCRIPTION:Преподаватель: Толикина М. Ю.\nЛекц
+ ионные занятия
+LOCATION:219
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Управление проектами в профессиона
+ льной деятельности
+DTSTART:20260924T134500
+DTEND:20260924T151500
+UID:b1391a9393a1d369dcf78b37eb52327c614a4cf7@schedule-sync
+DESCRIPTION:Преподаватель: Иванов И. А.\nЛекцио
+ нные занятия
+LOCATION:209А
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Обработка данных цифрового следа
+DTSTART:20260924T120500
+DTEND:20260924T133500
+UID:f3ae1341546a485e79bf5358f465e5909b39be76@schedule-sync
+DESCRIPTION:Преподаватель: Черёмухин А. Д.\nЛек
+ ционные занятия
+LOCATION:214
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Обработка данных цифрового следа
+DTSTART:20260924T152500
+DTEND:20260924T165500
+UID:c3b60387f8c65ae96a05c646ef0c928b9eb744ec@schedule-sync
+DESCRIPTION:Преподаватель: Криволапов И. В.\nПр
+ актические занятия
+LOCATION:Дистанционно
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Защита информации
+DTSTART:20260925T120500
+DTEND:20260925T133500
+UID:098ebed2d8123e1487c7366f8b2973cfc07b107c@schedule-sync
+DESCRIPTION:Преподаватель: Абувалов М. А.\nПрак
+ тические занятия
+LOCATION:210
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Разработка информационных систем с 
+ цифровым следом
+DTSTART:20260925T134500
+DTEND:20260925T151500
+UID:339d5fb89e5b1b9bc654f50af0e0e3584e9af96d@schedule-sync
+DESCRIPTION:Преподаватель: Митин А. Н.\nПрактич
+ еские занятия
+LOCATION:207
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Методы машинного обучения
+DTSTART:20260928T134500
+DTEND:20260928T151500
+UID:e163ecb30a5d8250a73019f2aa8e846da9f00fa4@schedule-sync
+DESCRIPTION:Преподаватель: Черёмухин А. Д.\nПра
+ ктические занятия
+LOCATION:209А
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Разработка информационных систем с 
+ цифровым следом
+DTSTART:20260929T134500
+DTEND:20260929T151500
+UID:f8a3aa67d04c9e724b483f50fd9ff8ecca3008e8@schedule-sync
+DESCRIPTION:Преподаватель: Черёмухин А. Д.\nЛек
+ ционные занятия
+LOCATION:217
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Развертывание моделей в предметной 
+ среде
+DTSTART:20260929T152500
+DTEND:20260929T165500
+UID:f3e66c7a76608649259420a72aaea71f03fcac88@schedule-sync
+DESCRIPTION:Преподаватель: Черёмухин А. Д.\nПра
+ ктические занятия
+LOCATION:214А
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Методы машинного обучения
+DTSTART:20260930T134500
+DTEND:20260930T151500
+UID:eaf459510b626d761c78c5215e2d9ef12cf86351@schedule-sync
+DESCRIPTION:Преподаватель: Черёмухин А. Д.\nПра
+ ктические занятия
+LOCATION:213
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Методы машинного обучения
+DTSTART:20260930T120500
+DTEND:20260930T133500
+UID:1813612d275b980d286b14277f3cd96243d884e4@schedule-sync
+DESCRIPTION:Преподаватель: Черёмухин А. Д.\nПра
+ ктические занятия
+LOCATION:219
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Управление проектами в профессиона
+ льной деятельности
+DTSTART:20260930T152500
+DTEND:20260930T165500
+UID:eab2f0d723198fc1851211c71e2edbad89a552a6@schedule-sync
+DESCRIPTION:Преподаватель: Сутягина Н. И.\nПрак
+ тические занятия
+LOCATION:214А
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Сети и телекоммуникации
+DTSTART:20261001T120500
+DTEND:20261001T133500
+UID:8e699b780e3e519099f914ea28a72ea4baa85bb4@schedule-sync
+DESCRIPTION:Преподаватель: Толикина М. Ю.\nЛекц
+ ионные занятия
+LOCATION:221В
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Обработка данных цифрового следа
+DTSTART:20261001T152500
+DTEND:20261001T165500
+UID:d3aef0049ddd18ad0bed3d5d12e01d8f82e663a4@schedule-sync
+DESCRIPTION:Преподаватель: Криволапов И. В.\nПр
+ актические занятия
+LOCATION:Дистанционно
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Защита информации
+DTSTART:20261002T120500
+DTEND:20261002T133500
+UID:87626331891cf20f0cc21c53079b8ce4859a7ba5@schedule-sync
+DESCRIPTION:Преподаватель: Абувалов М. А.\nЛекц
+ ионные занятия
+LOCATION:210
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Разработка информационных систем с 
+ цифровым следом
+DTSTART:20261002T134500
+DTEND:20261002T151500
+UID:4c52cce2003f06a02f57fef41dd7c855852053c1@schedule-sync
+DESCRIPTION:Преподаватель: Митин А. Н.\nПрактич
+ еские занятия
+LOCATION:207
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Методы машинного обучения
+DTSTART:20261005T134500
+DTEND:20261005T151500
+UID:464ea6a2a0fec1e7c3074546c1a9dab6c6cc293f@schedule-sync
+DESCRIPTION:Преподаватель: Черёмухин А. Д.\nПра
+ ктические занятия
+LOCATION:209А
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Методы машинного обучения
+DTSTART:20261006T134500
+DTEND:20261006T151500
+UID:e3104d7211cfb9c54944f5b4b6bcff655ca94c31@schedule-sync
+DESCRIPTION:Преподаватель: Черёмухин А. Д.\nЛек
+ ционные занятия
+LOCATION:207
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Развертывание моделей в предметной 
+ среде
+DTSTART:20261006T152500
+DTEND:20261006T165500
+UID:ea212c3185e02c082cf53b52e7e27b6ea2961262@schedule-sync
+DESCRIPTION:Преподаватель: Черёмухин А. Д.\nПра
+ ктические занятия
+LOCATION:214А
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Развертывание моделей в предметной 
+ среде
+DTSTART:20261007T134500
+DTEND:20261007T151500
+UID:63804bab9dcef35093a29b88957dcf6da50da1ba@schedule-sync
+DESCRIPTION:Преподаватель: Черёмухин А. Д.\nЛек
+ ционные занятия
+LOCATION:213
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Методы машинного обучения
+DTSTART:20261007T120500
+DTEND:20261007T133500
+UID:df0bcefafa64d3ee69b0a9c291b2ab33c4cbc04e@schedule-sync
+DESCRIPTION:Преподаватель: Черёмухин А. Д.\nПра
+ ктические занятия
+LOCATION:219
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Управление проектами в профессиона
+ льной деятельности
+DTSTART:20261007T152500
+DTEND:20261007T165500
+UID:4c2c13a6ee71e49a3e51adfa46836054059f3e42@schedule-sync
+DESCRIPTION:Преподаватель: Сутягина Н. И.\nПрак
+ тические занятия
+LOCATION:214А
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Сети и телекоммуникации
+DTSTART:20261008T094000
+DTEND:20261008T111000
+UID:76156b5a586d6d50856322b90d71aec37fe0540a@schedule-sync
+DESCRIPTION:Преподаватель: Толикина М. Ю.\nЛекц
+ ионные занятия
+LOCATION:219
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Управление проектами в профессиона
+ льной деятельности
+DTSTART:20261008T134500
+DTEND:20261008T151500
+UID:51d297fb46316c23be796bb962d684a041d2e579@schedule-sync
+DESCRIPTION:Преподаватель: Иванов И. А.\nЛекцио
+ нные занятия
+LOCATION:209А
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Обработка данных цифрового следа
+DTSTART:20261008T120500
+DTEND:20261008T133500
+UID:fe5f6e3e62c741aa505db3dba0cda5b700aada1e@schedule-sync
+DESCRIPTION:Преподаватель: Черёмухин А. Д.\nЛек
+ ционные занятия
+LOCATION:214
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Обработка данных цифрового следа
+DTSTART:20261008T152500
+DTEND:20261008T165500
+UID:674ddc3d42ab47de0fe274273def04ee5c14d711@schedule-sync
+DESCRIPTION:Преподаватель: Криволапов И. В.\nПр
+ актические занятия
+LOCATION:Дистанционно
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Защита информации
+DTSTART:20261009T120500
+DTEND:20261009T133500
+UID:b43599eb7a5f47166ace38557940ddd88350ba5c@schedule-sync
+DESCRIPTION:Преподаватель: Абувалов М. А.\nПрак
+ тические занятия
+LOCATION:210
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Разработка информационных систем с 
+ цифровым следом
+DTSTART:20261009T134500
+DTEND:20261009T151500
+UID:718ab5ff3f0a3a52756d46495be0b271cb728475@schedule-sync
+DESCRIPTION:Преподаватель: Митин А. Н.\nПрактич
+ еские занятия
+LOCATION:207
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Методы машинного обучения
+DTSTART:20261012T134500
+DTEND:20261012T151500
+UID:1b17811028ed45f32abd2cc63381363cb0f63e21@schedule-sync
+DESCRIPTION:Преподаватель: Черёмухин А. Д.\nПра
+ ктические занятия
+LOCATION:209А
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Разработка информационных систем с 
+ цифровым следом
+DTSTART:20261013T134500
+DTEND:20261013T151500
+UID:4f7c5ad7b23593d4684034a0445180fd18435a68@schedule-sync
+DESCRIPTION:Преподаватель: Черёмухин А. Д.\nЛек
+ ционные занятия
+LOCATION:217
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Развертывание моделей в предметной 
+ среде
+DTSTART:20261013T152500
+DTEND:20261013T165500
+UID:8261c92b322d7a18c1465117012fb2341638480c@schedule-sync
+DESCRIPTION:Преподаватель: Черёмухин А. Д.\nПра
+ ктические занятия
+LOCATION:214А
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Методы машинного обучения
+DTSTART:20261014T134500
+DTEND:20261014T151500
+UID:d68e2050033f6204de73b507b6825c3f7233ae8e@schedule-sync
+DESCRIPTION:Преподаватель: Черёмухин А. Д.\nПра
+ ктические занятия
+LOCATION:213
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Методы машинного обучения
+DTSTART:20261014T120500
+DTEND:20261014T133500
+UID:36a76eac7a71d72f843e33681895bc2bd2b6c8fd@schedule-sync
+DESCRIPTION:Преподаватель: Черёмухин А. Д.\nПра
+ ктические занятия
+LOCATION:219
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Управление проектами в профессиона
+ льной деятельности
+DTSTART:20261014T152500
+DTEND:20261014T165500
+UID:560e7fcd5d44c20733bf4aebb132652c1a7ca355@schedule-sync
+DESCRIPTION:Преподаватель: Сутягина Н. И.\nПрак
+ тические занятия
+LOCATION:214А
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Сети и телекоммуникации
+DTSTART:20261015T120500
+DTEND:20261015T133500
+UID:7813c6010519a741304ea58f01ecb836700557b4@schedule-sync
+DESCRIPTION:Преподаватель: Толикина М. Ю.\nЛекц
+ ионные занятия
+LOCATION:221В
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Обработка данных цифрового следа
+DTSTART:20261015T152500
+DTEND:20261015T165500
+UID:f131972d7e0c43d5c96fe4ecd726faf47c53d2a5@schedule-sync
+DESCRIPTION:Преподаватель: Криволапов И. В.\nПр
+ актические занятия
+LOCATION:Дистанционно
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Защита информации
+DTSTART:20261016T120500
+DTEND:20261016T133500
+UID:e4aa46c26ec4ae619546f4f574903ee30fb004a8@schedule-sync
+DESCRIPTION:Преподаватель: Абувалов М. А.\nЛекц
+ ионные занятия
+LOCATION:210
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Разработка информационных систем с 
+ цифровым следом
+DTSTART:20261016T134500
+DTEND:20261016T151500
+UID:2e6b7dc2c09affe5149e7f9e8f2ff48c3f35d7ac@schedule-sync
+DESCRIPTION:Преподаватель: Митин А. Н.\nПрактич
+ еские занятия
+LOCATION:207
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Методы машинного обучения
+DTSTART:20261019T134500
+DTEND:20261019T151500
+UID:935583da1d81801f148fbf706caef9ad10623427@schedule-sync
+DESCRIPTION:Преподаватель: Черёмухин А. Д.\nПра
+ ктические занятия
+LOCATION:209А
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Методы машинного обучения
+DTSTART:20261020T134500
+DTEND:20261020T151500
+UID:e96844b97b94636554c267a129eca41543a2bda3@schedule-sync
+DESCRIPTION:Преподаватель: Черёмухин А. Д.\nЛек
+ ционные занятия
+LOCATION:207
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Развертывание моделей в предметной 
+ среде
+DTSTART:20261020T152500
+DTEND:20261020T165500
+UID:559c1093ecf849665e2f7f9681048232c9fcb0e2@schedule-sync
+DESCRIPTION:Преподаватель: Черёмухин А. Д.\nПра
+ ктические занятия
+LOCATION:214А
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Развертывание моделей в предметной 
+ среде
+DTSTART:20261021T134500
+DTEND:20261021T151500
+UID:0b85dcfe21e7b737eabd99332c1d2ec513511839@schedule-sync
+DESCRIPTION:Преподаватель: Черёмухин А. Д.\nЛек
+ ционные занятия
+LOCATION:213
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Методы машинного обучения
+DTSTART:20261021T120500
+DTEND:20261021T133500
+UID:6e470aeb672fd74f6453ac9401f771a68e684b38@schedule-sync
+DESCRIPTION:Преподаватель: Черёмухин А. Д.\nПра
+ ктические занятия
+LOCATION:219
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Управление проектами в профессиона
+ льной деятельности
+DTSTART:20261021T152500
+DTEND:20261021T165500
+UID:4a8d98df97713dce3a62f4ab89438636df70ee81@schedule-sync
+DESCRIPTION:Преподаватель: Сутягина Н. И.\nПрак
+ тические занятия
+LOCATION:214А
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Сети и телекоммуникации
+DTSTART:20261022T094000
+DTEND:20261022T111000
+UID:c29d746090dd995712e9627a8caafba7f33e9ff2@schedule-sync
+DESCRIPTION:Преподаватель: Толикина М. Ю.\nЛекц
+ ионные занятия
+LOCATION:219
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Управление проектами в профессиона
+ льной деятельности
+DTSTART:20261022T134500
+DTEND:20261022T151500
+UID:9f3138716393a628ffc88138d4417e30a1223df2@schedule-sync
+DESCRIPTION:Преподаватель: Иванов И. А.\nЛекцио
+ нные занятия
+LOCATION:209А
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Обработка данных цифрового следа
+DTSTART:20261022T120500
+DTEND:20261022T133500
+UID:b3250b54cd24d1dcd7f859957d209e9305fb3b71@schedule-sync
+DESCRIPTION:Преподаватель: Черёмухин А. Д.\nЛек
+ ционные занятия
+LOCATION:214
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Обработка данных цифрового следа
+DTSTART:20261022T152500
+DTEND:20261022T165500
+UID:e3675ad3ccae546619079d4f43f05e2890cb922b@schedule-sync
+DESCRIPTION:Преподаватель: Криволапов И. В.\nПр
+ актические занятия
+LOCATION:Дистанционно
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Защита информации
+DTSTART:20261023T120500
+DTEND:20261023T133500
+UID:f4177cd1df17212b6685573e37ead58e1709b9c4@schedule-sync
+DESCRIPTION:Преподаватель: Абувалов М. А.\nПрак
+ тические занятия
+LOCATION:210
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Разработка информационных систем с 
+ цифровым следом
+DTSTART:20261023T134500
+DTEND:20261023T151500
+UID:a8cabba54801a4c0ad56e6b8a5b6a829f4d76643@schedule-sync
+DESCRIPTION:Преподаватель: Митин А. Н.\nПрактич
+ еские занятия
+LOCATION:207
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Методы машинного обучения
+DTSTART:20261026T134500
+DTEND:20261026T151500
+UID:2bc428dcd6998b4ac108bd5674029a242af898c9@schedule-sync
+DESCRIPTION:Преподаватель: Черёмухин А. Д.\nПра
+ ктические занятия
+LOCATION:209А
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Разработка информационных систем с 
+ цифровым следом
+DTSTART:20261027T134500
+DTEND:20261027T151500
+UID:d326e84709457542c6765770e05c2686ccfeab49@schedule-sync
+DESCRIPTION:Преподаватель: Черёмухин А. Д.\nЛек
+ ционные занятия
+LOCATION:217
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Развертывание моделей в предметной 
+ среде
+DTSTART:20261027T152500
+DTEND:20261027T165500
+UID:9637fbb8e159431f892fedc0f44a7beff2fd1a9f@schedule-sync
+DESCRIPTION:Преподаватель: Черёмухин А. Д.\nПра
+ ктические занятия
+LOCATION:214А
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Методы машинного обучения
+DTSTART:20261028T134500
+DTEND:20261028T151500
+UID:a41c8a902ffe4734de9969c829fcfee3ebd2ca19@schedule-sync
+DESCRIPTION:Преподаватель: Черёмухин А. Д.\nПра
+ ктические занятия
+LOCATION:213
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Методы машинного обучения
+DTSTART:20261028T120500
+DTEND:20261028T133500
+UID:1737dff1e3b76d459e2da27b8352de095c1171ab@schedule-sync
+DESCRIPTION:Преподаватель: Черёмухин А. Д.\nПра
+ ктические занятия
+LOCATION:219
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Управление проектами в профессиона
+ льной деятельности
+DTSTART:20261028T152500
+DTEND:20261028T165500
+UID:64df425f7734745a77875f1992d3abf25eb59f71@schedule-sync
+DESCRIPTION:Преподаватель: Сутягина Н. И.\nПрак
+ тические занятия
+LOCATION:214А
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Сети и телекоммуникации
+DTSTART:20261029T120500
+DTEND:20261029T133500
+UID:3493098b904b051bcd51f1fff89c14f5d4af1fa7@schedule-sync
+DESCRIPTION:Преподаватель: Толикина М. Ю.\nЛекц
+ ионные занятия
+LOCATION:221В
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Обработка данных цифрового следа
+DTSTART:20261029T152500
+DTEND:20261029T165500
+UID:0e32a6cd6f9164f08aec2b8457b5c96319434bf5@schedule-sync
+DESCRIPTION:Преподаватель: Криволапов И. В.\nПр
+ актические занятия
+LOCATION:Дистанционно
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Защита информации
+DTSTART:20261030T120500
+DTEND:20261030T133500
+UID:e80bd4d941dabe6f73f808adb4966703d97bfed8@schedule-sync
+DESCRIPTION:Преподаватель: Абувалов М. А.\nЛекц
+ ионные занятия
+LOCATION:210
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Разработка информационных систем с 
+ цифровым следом
+DTSTART:20261030T134500
+DTEND:20261030T151500
+UID:0403733b7e166ede26e777f6841101357847e2e4@schedule-sync
+DESCRIPTION:Преподаватель: Митин А. Н.\nПрактич
+ еские занятия
+LOCATION:207
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Методы машинного обучения
+DTSTART:20261102T134500
+DTEND:20261102T151500
+UID:cba8d08f4cbee4457fda120ab72cf22a1e21cb57@schedule-sync
+DESCRIPTION:Преподаватель: Черёмухин А. Д.\nПра
+ ктические занятия
+LOCATION:209А
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Методы машинного обучения
+DTSTART:20261103T134500
+DTEND:20261103T151500
+UID:9d2dbeb6cb6ab13e1ed4e29bb8bfd5ad3fc14ff3@schedule-sync
+DESCRIPTION:Преподаватель: Черёмухин А. Д.\nЛек
+ ционные занятия
+LOCATION:207
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Развертывание моделей в предметной 
+ среде
+DTSTART:20261103T152500
+DTEND:20261103T165500
+UID:1624c35e68fd9c9566ce8073ca4c9496c446ef02@schedule-sync
+DESCRIPTION:Преподаватель: Черёмухин А. Д.\nПра
+ ктические занятия
+LOCATION:214А
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Развертывание моделей в предметной 
+ среде
+DTSTART:20261104T134500
+DTEND:20261104T151500
+UID:062bd64e03736dba941520bfec0f489b495fb066@schedule-sync
+DESCRIPTION:Преподаватель: Черёмухин А. Д.\nЛек
+ ционные занятия
+LOCATION:213
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Методы машинного обучения
+DTSTART:20261104T120500
+DTEND:20261104T133500
+UID:676e82bb1944156bcb53fd43e1acd1ff769b128f@schedule-sync
+DESCRIPTION:Преподаватель: Черёмухин А. Д.\nПра
+ ктические занятия
+LOCATION:219
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Управление проектами в профессиона
+ льной деятельности
+DTSTART:20261104T152500
+DTEND:20261104T165500
+UID:5dca1fff62c07bb0817d8c2f200f136a37ad7bc8@schedule-sync
+DESCRIPTION:Преподаватель: Сутягина Н. И.\nПрак
+ тические занятия
+LOCATION:214А
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Сети и телекоммуникации
+DTSTART:20261105T094000
+DTEND:20261105T111000
+UID:4e4fd29f4824ed271e58b9409356ac59edfbb601@schedule-sync
+DESCRIPTION:Преподаватель: Толикина М. Ю.\nЛекц
+ ионные занятия
+LOCATION:219
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Управление проектами в профессиона
+ льной деятельности
+DTSTART:20261105T134500
+DTEND:20261105T151500
+UID:66ccb75fca91a368aa592ab481f13daa301b5b17@schedule-sync
+DESCRIPTION:Преподаватель: Иванов И. А.\nЛекцио
+ нные занятия
+LOCATION:209А
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Обработка данных цифрового следа
+DTSTART:20261105T120500
+DTEND:20261105T133500
+UID:f0b76398eec734c5ee3452936abeb70b5ade7d2f@schedule-sync
+DESCRIPTION:Преподаватель: Черёмухин А. Д.\nЛек
+ ционные занятия
+LOCATION:214
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Обработка данных цифрового следа
+DTSTART:20261105T152500
+DTEND:20261105T165500
+UID:6870703914a0018615c6aed50c82266afc42aaf3@schedule-sync
+DESCRIPTION:Преподаватель: Криволапов И. В.\nПр
+ актические занятия
+LOCATION:Дистанционно
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Защита информации
+DTSTART:20261106T120500
+DTEND:20261106T133500
+UID:061fed4bf43a91538987f716c12dd27d465407ce@schedule-sync
+DESCRIPTION:Преподаватель: Абувалов М. А.\nПрак
+ тические занятия
+LOCATION:210
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Разработка информационных систем с 
+ цифровым следом
+DTSTART:20261106T134500
+DTEND:20261106T151500
+UID:e2de9a0554b5a3920b1b16b6e4db659830c3fd9e@schedule-sync
+DESCRIPTION:Преподаватель: Митин А. Н.\nПрактич
+ еские занятия
+LOCATION:207
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Методы машинного обучения
+DTSTART:20261109T134500
+DTEND:20261109T151500
+UID:bedbd837d245208a8571be63ea760ef49e2a91a2@schedule-sync
+DESCRIPTION:Преподаватель: Черёмухин А. Д.\nПра
+ ктические занятия
+LOCATION:209А
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Разработка информационных систем с 
+ цифровым следом
+DTSTART:20261110T134500
+DTEND:20261110T151500
+UID:3506fd67f161a7894ac8f39e06825908ae8cdbf1@schedule-sync
+DESCRIPTION:Преподаватель: Черёмухин А. Д.\nЛек
+ ционные занятия
+LOCATION:217
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Развертывание моделей в предметной 
+ среде
+DTSTART:20261110T152500
+DTEND:20261110T165500
+UID:6039ed4b5c6ccc6c4064c824bfb2a68a57e52599@schedule-sync
+DESCRIPTION:Преподаватель: Черёмухин А. Д.\nПра
+ ктические занятия
+LOCATION:214А
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Методы машинного обучения
+DTSTART:20261111T134500
+DTEND:20261111T151500
+UID:39ab14d65bfaafd45272713435648ceffddd4394@schedule-sync
+DESCRIPTION:Преподаватель: Черёмухин А. Д.\nПра
+ ктические занятия
+LOCATION:213
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Методы машинного обучения
+DTSTART:20261111T120500
+DTEND:20261111T133500
+UID:01013141359931bb4e820f55ae8cc502a73a09b1@schedule-sync
+DESCRIPTION:Преподаватель: Черёмухин А. Д.\nПра
+ ктические занятия
+LOCATION:219
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Управление проектами в профессиона
+ льной деятельности
+DTSTART:20261111T152500
+DTEND:20261111T165500
+UID:690e899707f8694284e33d8663523906771e6c37@schedule-sync
+DESCRIPTION:Преподаватель: Сутягина Н. И.\nПрак
+ тические занятия
+LOCATION:214А
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Сети и телекоммуникации
+DTSTART:20261112T120500
+DTEND:20261112T133500
+UID:cebfe1557178a9535430c44d4427f12908f32b33@schedule-sync
+DESCRIPTION:Преподаватель: Толикина М. Ю.\nЛекц
+ ионные занятия
+LOCATION:221В
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Обработка данных цифрового следа
+DTSTART:20261112T152500
+DTEND:20261112T165500
+UID:d54d920c393c4d6afbf8da13f2094dbc29663715@schedule-sync
+DESCRIPTION:Преподаватель: Криволапов И. В.\nПр
+ актические занятия
+LOCATION:Дистанционно
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Защита информации
+DTSTART:20261113T120500
+DTEND:20261113T133500
+UID:140e1b355d2c8165b5cbb5f1784ea0b6c80c9d39@schedule-sync
+DESCRIPTION:Преподаватель: Абувалов М. А.\nЛекц
+ ионные занятия
+LOCATION:210
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Разработка информационных систем с 
+ цифровым следом
+DTSTART:20261113T134500
+DTEND:20261113T151500
+UID:2fd3a0695f2d8b7bbf5dcfbfd4e1f2ac5a1e4803@schedule-sync
+DESCRIPTION:Преподаватель: Митин А. Н.\nПрактич
+ еские занятия
+LOCATION:207
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Методы машинного обучения
+DTSTART:20261116T134500
+DTEND:20261116T151500
+UID:0741828391dc308673c3d32677417f21a67f8540@schedule-sync
+DESCRIPTION:Преподаватель: Черёмухин А. Д.\nПра
+ ктические занятия
+LOCATION:209А
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Методы машинного обучения
+DTSTART:20261117T134500
+DTEND:20261117T151500
+UID:9804baa2088501e0744ea2b5b827a25eba82ba31@schedule-sync
+DESCRIPTION:Преподаватель: Черёмухин А. Д.\nЛек
+ ционные занятия
+LOCATION:207
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Развертывание моделей в предметной 
+ среде
+DTSTART:20261117T152500
+DTEND:20261117T165500
+UID:0a15a2f5701b28ad6f78a337c8d806e56ac0f08a@schedule-sync
+DESCRIPTION:Преподаватель: Черёмухин А. Д.\nПра
+ ктические занятия
+LOCATION:214А
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Развертывание моделей в предметной 
+ среде
+DTSTART:20261118T134500
+DTEND:20261118T151500
+UID:3546eeca52753155d68efca9ee4d56502c92f7cd@schedule-sync
+DESCRIPTION:Преподаватель: Черёмухин А. Д.\nЛек
+ ционные занятия
+LOCATION:213
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Методы машинного обучения
+DTSTART:20261118T120500
+DTEND:20261118T133500
+UID:4c1b862e78ac8cae80d720874ed55f1f630c3b97@schedule-sync
+DESCRIPTION:Преподаватель: Черёмухин А. Д.\nПра
+ ктические занятия
+LOCATION:219
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Управление проектами в профессиона
+ льной деятельности
+DTSTART:20261118T152500
+DTEND:20261118T165500
+UID:11780a6b5416671ffc8ed2aa4dfadbc0d84a6cee@schedule-sync
+DESCRIPTION:Преподаватель: Сутягина Н. И.\nПрак
+ тические занятия
+LOCATION:214А
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Сети и телекоммуникации
+DTSTART:20261119T094000
+DTEND:20261119T111000
+UID:a578987ee1058b768e656f30293585c02eae2a62@schedule-sync
+DESCRIPTION:Преподаватель: Толикина М. Ю.\nЛекц
+ ионные занятия
+LOCATION:219
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Управление проектами в профессиона
+ льной деятельности
+DTSTART:20261119T134500
+DTEND:20261119T151500
+UID:d05ebf7650b0982d66b4a65da1359af776a7573d@schedule-sync
+DESCRIPTION:Преподаватель: Иванов И. А.\nЛекцио
+ нные занятия
+LOCATION:209А
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Обработка данных цифрового следа
+DTSTART:20261119T120500
+DTEND:20261119T133500
+UID:fc3eb2e64260b98b7d7bf0a3569625017b500bb8@schedule-sync
+DESCRIPTION:Преподаватель: Черёмухин А. Д.\nЛек
+ ционные занятия
+LOCATION:214
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Обработка данных цифрового следа
+DTSTART:20261119T152500
+DTEND:20261119T165500
+UID:295569ef03e2c4bcf8686e1c5cf43008153687be@schedule-sync
+DESCRIPTION:Преподаватель: Криволапов И. В.\nПр
+ актические занятия
+LOCATION:Дистанционно
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Защита информации
+DTSTART:20261120T120500
+DTEND:20261120T133500
+UID:2b835ff7fa1a11e4e200877953c6e86200d355fb@schedule-sync
+DESCRIPTION:Преподаватель: Абувалов М. А.\nПрак
+ тические занятия
+LOCATION:210
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Разработка информационных систем с 
+ цифровым следом
+DTSTART:20261120T134500
+DTEND:20261120T151500
+UID:e8ce8c0073cfa01489bce66a90aa4d3b77ebfd85@schedule-sync
+DESCRIPTION:Преподаватель: Митин А. Н.\nПрактич
+ еские занятия
+LOCATION:207
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Методы машинного обучения
+DTSTART:20261123T134500
+DTEND:20261123T151500
+UID:8f08c8d00abdf104b67c1e4149927d871e57cdc9@schedule-sync
+DESCRIPTION:Преподаватель: Черёмухин А. Д.\nПра
+ ктические занятия
+LOCATION:209А
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Разработка информационных систем с 
+ цифровым следом
+DTSTART:20261124T134500
+DTEND:20261124T151500
+UID:f9995e27a57642f1a7c51fbcb16c6db979716ac1@schedule-sync
+DESCRIPTION:Преподаватель: Черёмухин А. Д.\nЛек
+ ционные занятия
+LOCATION:217
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Развертывание моделей в предметной 
+ среде
+DTSTART:20261124T152500
+DTEND:20261124T165500
+UID:6fc6d95a816bef686c4e8d071e423809f60c29c8@schedule-sync
+DESCRIPTION:Преподаватель: Черёмухин А. Д.\nПра
+ ктические занятия
+LOCATION:214А
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Методы машинного обучения
+DTSTART:20261125T134500
+DTEND:20261125T151500
+UID:5f30f28fdae2fca513e54f9c43f72b289c3b6245@schedule-sync
+DESCRIPTION:Преподаватель: Черёмухин А. Д.\nПра
+ ктические занятия
+LOCATION:213
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Методы машинного обучения
+DTSTART:20261125T120500
+DTEND:20261125T133500
+UID:5b563c66764abf52eb24cd0d17c0ab0e70d14875@schedule-sync
+DESCRIPTION:Преподаватель: Черёмухин А. Д.\nПра
+ ктические занятия
+LOCATION:219
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Управление проектами в профессиона
+ льной деятельности
+DTSTART:20261125T152500
+DTEND:20261125T165500
+UID:a9eb10f532c8ef09d5c19ce31e13a1dc7e2d0e4e@schedule-sync
+DESCRIPTION:Преподаватель: Сутягина Н. И.\nПрак
+ тические занятия
+LOCATION:214А
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Сети и телекоммуникации
+DTSTART:20261126T120500
+DTEND:20261126T133500
+UID:b6964d58eb2693dc621b500074bdf8ff3e6e40aa@schedule-sync
+DESCRIPTION:Преподаватель: Толикина М. Ю.\nЛекц
+ ионные занятия
+LOCATION:221В
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Обработка данных цифрового следа
+DTSTART:20261126T152500
+DTEND:20261126T165500
+UID:60fbccbfc3adcf926da1956912270553382ba87d@schedule-sync
+DESCRIPTION:Преподаватель: Криволапов И. В.\nПр
+ актические занятия
+LOCATION:Дистанционно
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Защита информации
+DTSTART:20261127T120500
+DTEND:20261127T133500
+UID:2047a6883d553dfc4469816b9bdea9469ac1868c@schedule-sync
+DESCRIPTION:Преподаватель: Абувалов М. А.\nЛекц
+ ионные занятия
+LOCATION:210
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Разработка информационных систем с 
+ цифровым следом
+DTSTART:20261127T134500
+DTEND:20261127T151500
+UID:ae18ea4e0ba853abe4e1efed7be8e36e1438a61f@schedule-sync
+DESCRIPTION:Преподаватель: Митин А. Н.\nПрактич
+ еские занятия
+LOCATION:207
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Методы машинного обучения
+DTSTART:20261130T134500
+DTEND:20261130T151500
+UID:29bba3015ddd66a9c2961c587e037481e0c2b38a@schedule-sync
+DESCRIPTION:Преподаватель: Черёмухин А. Д.\nПра
+ ктические занятия
+LOCATION:209А
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Методы машинного обучения
+DTSTART:20261201T134500
+DTEND:20261201T151500
+UID:d3ad1755638dbf903dd43a282a723ba0a792df06@schedule-sync
+DESCRIPTION:Преподаватель: Черёмухин А. Д.\nЛек
+ ционные занятия
+LOCATION:207
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Развертывание моделей в предметной 
+ среде
+DTSTART:20261201T152500
+DTEND:20261201T165500
+UID:9ca2ac0d93a72dbd273f756fbafb7eb9adb9424b@schedule-sync
+DESCRIPTION:Преподаватель: Черёмухин А. Д.\nПра
+ ктические занятия
+LOCATION:214А
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Развертывание моделей в предметной 
+ среде
+DTSTART:20261202T134500
+DTEND:20261202T151500
+UID:29426ba8dcd22b548817d378db5a9f09bf48ff5b@schedule-sync
+DESCRIPTION:Преподаватель: Черёмухин А. Д.\nЛек
+ ционные занятия
+LOCATION:213
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Методы машинного обучения
+DTSTART:20261202T120500
+DTEND:20261202T133500
+UID:3c119ed6195181bb2e52af1dcb54529d3758ba12@schedule-sync
+DESCRIPTION:Преподаватель: Черёмухин А. Д.\nПра
+ ктические занятия
+LOCATION:219
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Управление проектами в профессиона
+ льной деятельности
+DTSTART:20261202T152500
+DTEND:20261202T165500
+UID:5fa4f654ac36797fbbfdf0b4d674eb877a372aab@schedule-sync
+DESCRIPTION:Преподаватель: Сутягина Н. И.\nПрак
+ тические занятия
+LOCATION:214А
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Сети и телекоммуникации
+DTSTART:20261203T094000
+DTEND:20261203T111000
+UID:2978dfcf9f857456fb7c95f633bb6b422e60203e@schedule-sync
+DESCRIPTION:Преподаватель: Толикина М. Ю.\nЛекц
+ ионные занятия
+LOCATION:219
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Управление проектами в профессиона
+ льной деятельности
+DTSTART:20261203T134500
+DTEND:20261203T151500
+UID:2b733c85ccfeed9067a1d1119f4531699f27f28e@schedule-sync
+DESCRIPTION:Преподаватель: Иванов И. А.\nЛекцио
+ нные занятия
+LOCATION:209А
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Обработка данных цифрового следа
+DTSTART:20261203T120500
+DTEND:20261203T133500
+UID:b00316880f9df750ff172860144b38fab2bb6bd5@schedule-sync
+DESCRIPTION:Преподаватель: Черёмухин А. Д.\nЛек
+ ционные занятия
+LOCATION:214
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Обработка данных цифрового следа
+DTSTART:20261203T152500
+DTEND:20261203T165500
+UID:28102aeafd7d72e0aa351dc78b811b189a71f58c@schedule-sync
+DESCRIPTION:Преподаватель: Криволапов И. В.\nПр
+ актические занятия
+LOCATION:Дистанционно
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Защита информации
+DTSTART:20261204T120500
+DTEND:20261204T133500
+UID:4e34ff661a2768ab08d586e19ab918936c8b98e2@schedule-sync
+DESCRIPTION:Преподаватель: Абувалов М. А.\nПрак
+ тические занятия
+LOCATION:210
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Разработка информационных систем с 
+ цифровым следом
+DTSTART:20261204T134500
+DTEND:20261204T151500
+UID:715fc7762d8c782ecd5a0b3149c31588535fbed8@schedule-sync
+DESCRIPTION:Преподаватель: Митин А. Н.\nПрактич
+ еские занятия
+LOCATION:207
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Методы машинного обучения
+DTSTART:20261207T134500
+DTEND:20261207T151500
+UID:d1ba1db602f9d66b5f740bfade86c17e2c63159c@schedule-sync
+DESCRIPTION:Преподаватель: Черёмухин А. Д.\nПра
+ ктические занятия
+LOCATION:209А
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Разработка информационных систем с 
+ цифровым следом
+DTSTART:20261208T134500
+DTEND:20261208T151500
+UID:f856b2310868292ca2c09a0c4431b02c261d5361@schedule-sync
+DESCRIPTION:Преподаватель: Черёмухин А. Д.\nЛек
+ ционные занятия
+LOCATION:217
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Развертывание моделей в предметной 
+ среде
+DTSTART:20261208T152500
+DTEND:20261208T165500
+UID:c3c1753e725bf8c08364d8b55e683cac4e4d07bc@schedule-sync
+DESCRIPTION:Преподаватель: Черёмухин А. Д.\nПра
+ ктические занятия
+LOCATION:214А
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Методы машинного обучения
+DTSTART:20261209T134500
+DTEND:20261209T151500
+UID:e1b429a3f100ebc4405a50426283b1a894c3381d@schedule-sync
+DESCRIPTION:Преподаватель: Черёмухин А. Д.\nПра
+ ктические занятия
+LOCATION:213
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Методы машинного обучения
+DTSTART:20261209T120500
+DTEND:20261209T133500
+UID:c185b4a27ad3779a59d488e5a0f9a3d5a742c236@schedule-sync
+DESCRIPTION:Преподаватель: Черёмухин А. Д.\nПра
+ ктические занятия
+LOCATION:219
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Управление проектами в профессиона
+ льной деятельности
+DTSTART:20261209T152500
+DTEND:20261209T165500
+UID:1c4fcfa4c44d41b46f7e44dc81cd2c5b476c9b47@schedule-sync
+DESCRIPTION:Преподаватель: Сутягина Н. И.\nПрак
+ тические занятия
+LOCATION:214А
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Сети и телекоммуникации
+DTSTART:20261210T120500
+DTEND:20261210T133500
+UID:db53abd947110ccc0ae265f04b1ddba96d93160b@schedule-sync
+DESCRIPTION:Преподаватель: Толикина М. Ю.\nЛекц
+ ионные занятия
+LOCATION:221В
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Обработка данных цифрового следа
+DTSTART:20261210T152500
+DTEND:20261210T165500
+UID:d3f29cfd8e2b335d4bbdfa83fcb23eb2cc487a13@schedule-sync
+DESCRIPTION:Преподаватель: Криволапов И. В.\nПр
+ актические занятия
+LOCATION:Дистанционно
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Защита информации
+DTSTART:20261211T120500
+DTEND:20261211T133500
+UID:b6a64c8faeb626d19fc0291a3abfd651e47e80fa@schedule-sync
+DESCRIPTION:Преподаватель: Абувалов М. А.\nЛекц
+ ионные занятия
+LOCATION:210
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Разработка информационных систем с 
+ цифровым следом
+DTSTART:20261211T134500
+DTEND:20261211T151500
+UID:58a6fdbe2e9ec45a20e2c4b3c19d71b3ff8b0d60@schedule-sync
+DESCRIPTION:Преподаватель: Митин А. Н.\nПрактич
+ еские занятия
+LOCATION:207
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Методы машинного обучения
+DTSTART:20261214T134500
+DTEND:20261214T151500
+UID:220cd712bef7e0c481f2895a78d9ffe5663f5ec0@schedule-sync
+DESCRIPTION:Преподаватель: Черёмухин А. Д.\nПра
+ ктические занятия
+LOCATION:209А
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Методы машинного обучения
+DTSTART:20261215T134500
+DTEND:20261215T151500
+UID:f207c671c5fe80281640c64dc6e11fb1d087412c@schedule-sync
+DESCRIPTION:Преподаватель: Черёмухин А. Д.\nЛек
+ ционные занятия
+LOCATION:207
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Развертывание моделей в предметной 
+ среде
+DTSTART:20261215T152500
+DTEND:20261215T165500
+UID:05b6ab88c6cd62379a025314cfad57991a1a3845@schedule-sync
+DESCRIPTION:Преподаватель: Черёмухин А. Д.\nПра
+ ктические занятия
+LOCATION:214А
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Развертывание моделей в предметной 
+ среде
+DTSTART:20261216T134500
+DTEND:20261216T151500
+UID:fada606d0b6016bec4983e61f0f4458a64b4adc8@schedule-sync
+DESCRIPTION:Преподаватель: Черёмухин А. Д.\nЛек
+ ционные занятия
+LOCATION:213
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Методы машинного обучения
+DTSTART:20261216T120500
+DTEND:20261216T133500
+UID:c4855bff1adaa019d3a1bacf73210b74f91da134@schedule-sync
+DESCRIPTION:Преподаватель: Черёмухин А. Д.\nПра
+ ктические занятия
+LOCATION:219
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Управление проектами в профессиона
+ льной деятельности
+DTSTART:20261216T152500
+DTEND:20261216T165500
+UID:f0ed51a07b66babaa420efa5c841cadc1f0a75fa@schedule-sync
+DESCRIPTION:Преподаватель: Сутягина Н. И.\nПрак
+ тические занятия
+LOCATION:214А
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Сети и телекоммуникации
+DTSTART:20261217T094000
+DTEND:20261217T111000
+UID:dede8b13fdd152fefb2ec06401de079ee48c1cd6@schedule-sync
+DESCRIPTION:Преподаватель: Толикина М. Ю.\nЛекц
+ ионные занятия
+LOCATION:219
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Управление проектами в профессиона
+ льной деятельности
+DTSTART:20261217T134500
+DTEND:20261217T151500
+UID:83a53605d1d40c6b0984b5e45bc5c1ad20103103@schedule-sync
+DESCRIPTION:Преподаватель: Иванов И. А.\nЛекцио
+ нные занятия
+LOCATION:209А
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Обработка данных цифрового следа
+DTSTART:20261217T120500
+DTEND:20261217T133500
+UID:080702689410879fbbc877d99991667e7aad3448@schedule-sync
+DESCRIPTION:Преподаватель: Черёмухин А. Д.\nЛек
+ ционные занятия
+LOCATION:214
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Обработка данных цифрового следа
+DTSTART:20261217T152500
+DTEND:20261217T165500
+UID:dc25e457dfb068ae9df833f5a314a793ffc1bb81@schedule-sync
+DESCRIPTION:Преподаватель: Криволапов И. В.\nПр
+ актические занятия
+LOCATION:Дистанционно
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Защита информации
+DTSTART:20261218T120500
+DTEND:20261218T133500
+UID:bf70ce1c61369008c48797c2c4ea1a52c9790ed0@schedule-sync
+DESCRIPTION:Преподаватель: Абувалов М. А.\nПрак
+ тические занятия
+LOCATION:210
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Разработка информационных систем с 
+ цифровым следом
+DTSTART:20261218T134500
+DTEND:20261218T151500
+UID:9203db52efcf35c038a4f5dace65cdef83726056@schedule-sync
+DESCRIPTION:Преподаватель: Митин А. Н.\nПрактич
+ еские занятия
+LOCATION:207
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Методы машинного обучения
+DTSTART:20261221T134500
+DTEND:20261221T151500
+UID:8bfffee019b8aaec06ca7f6aa8796a8262a11de7@schedule-sync
+DESCRIPTION:Преподаватель: Черёмухин А. Д.\nПра
+ ктические занятия
+LOCATION:209А
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Разработка информационных систем с 
+ цифровым следом
+DTSTART:20261222T134500
+DTEND:20261222T151500
+UID:f37d23989988324d211ac06e6261db318cbcc9ae@schedule-sync
+DESCRIPTION:Преподаватель: Черёмухин А. Д.\nЛек
+ ционные занятия
+LOCATION:217
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Развертывание моделей в предметной 
+ среде
+DTSTART:20261222T152500
+DTEND:20261222T165500
+UID:4be659c5a6c8ea9f0e17e63a8fb718c1fccf07df@schedule-sync
+DESCRIPTION:Преподаватель: Черёмухин А. Д.\nПра
+ ктические занятия
+LOCATION:214А
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Методы машинного обучения
+DTSTART:20261223T134500
+DTEND:20261223T151500
+UID:cde6d2d3f57a4fd6db8f553f1ddc2d5dfcc99f43@schedule-sync
+DESCRIPTION:Преподаватель: Черёмухин А. Д.\nПра
+ ктические занятия
+LOCATION:213
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Методы машинного обучения
+DTSTART:20261223T120500
+DTEND:20261223T133500
+UID:f40357849231a50bbeaf12ac4aaa732c288a42dc@schedule-sync
+DESCRIPTION:Преподаватель: Черёмухин А. Д.\nПра
+ ктические занятия
+LOCATION:219
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Управление проектами в профессиона
+ льной деятельности
+DTSTART:20261223T152500
+DTEND:20261223T165500
+UID:6f3a0db16fcb674a85bb79ae6abfb05af6f19f68@schedule-sync
+DESCRIPTION:Преподаватель: Сутягина Н. И.\nПрак
+ тические занятия
+LOCATION:214А
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Сети и телекоммуникации
+DTSTART:20261224T120500
+DTEND:20261224T133500
+UID:c08b35006f5ff04ed828e861d2c33b9a937b2ff1@schedule-sync
+DESCRIPTION:Преподаватель: Толикина М. Ю.\nЛекц
+ ионные занятия
+LOCATION:221В
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Обработка данных цифрового следа
+DTSTART:20261224T152500
+DTEND:20261224T165500
+UID:f4072aff464b45b19afbdfa871e80950c2852a9a@schedule-sync
+DESCRIPTION:Преподаватель: Криволапов И. В.\nПр
+ актические занятия
+LOCATION:Дистанционно
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Защита информации
+DTSTART:20261225T120500
+DTEND:20261225T133500
+UID:ecc2ca99a2c2127fb7069603741c9fbc7add7521@schedule-sync
+DESCRIPTION:Преподаватель: Абувалов М. А.\nЛекц
+ ионные занятия
+LOCATION:210
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Разработка информационных систем с 
+ цифровым следом
+DTSTART:20261225T134500
+DTEND:20261225T151500
+UID:55b16ab4de22b47051dce0269d19c5e3a1a39946@schedule-sync
+DESCRIPTION:Преподаватель: Митин А. Н.\nПрактич
+ еские занятия
+LOCATION:207
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Методы машинного обучения
+DTSTART:20261228T134500
+DTEND:20261228T151500
+UID:92e8b8281179ee64badd56f6d79057a690fd2ef7@schedule-sync
+DESCRIPTION:Преподаватель: Черёмухин А. Д.\nПра
+ ктические занятия
+LOCATION:209А
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Методы машинного обучения
+DTSTART:20261229T134500
+DTEND:20261229T151500
+UID:b0d0a7bef9da1117b0b1c30b653a062528ed064a@schedule-sync
+DESCRIPTION:Преподаватель: Черёмухин А. Д.\nЛек
+ ционные занятия
+LOCATION:207
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Развертывание моделей в предметной 
+ среде
+DTSTART:20261229T152500
+DTEND:20261229T165500
+UID:aff862ca68426a3ccf5688c823ebfc1d859a6d40@schedule-sync
+DESCRIPTION:Преподаватель: Черёмухин А. Д.\nПра
+ ктические занятия
+LOCATION:214А
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Развертывание моделей в предметной 
+ среде
+DTSTART:20261230T134500
+DTEND:20261230T151500
+UID:e5a0383825e56e65519f114405ecedd5f2b00b43@schedule-sync
+DESCRIPTION:Преподаватель: Черёмухин А. Д.\nЛек
+ ционные занятия
+LOCATION:213
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Методы машинного обучения
+DTSTART:20261230T120500
+DTEND:20261230T133500
+UID:b78af0402601c7bf9ff65c3e7b932690e0d94128@schedule-sync
+DESCRIPTION:Преподаватель: Черёмухин А. Д.\nПра
+ ктические занятия
+LOCATION:219
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Управление проектами в профессиона
+ льной деятельности
+DTSTART:20261230T152500
+DTEND:20261230T165500
+UID:24c06ba9e66663332bcefbfad7d8dbf5a8f5500a@schedule-sync
+DESCRIPTION:Преподаватель: Сутягина Н. И.\nПрак
+ тические занятия
+LOCATION:214А
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Сети и телекоммуникации
+DTSTART:20261231T094000
+DTEND:20261231T111000
+UID:1cca0b0b9390bcc1c58977c689e0c851ab288e53@schedule-sync
+DESCRIPTION:Преподаватель: Толикина М. Ю.\nЛекц
+ ионные занятия
+LOCATION:219
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Управление проектами в профессиона
+ льной деятельности
+DTSTART:20261231T134500
+DTEND:20261231T151500
+UID:8180941c6ece1836429f4cfef4c75bfd53e9bbfc@schedule-sync
+DESCRIPTION:Преподаватель: Иванов И. А.\nЛекцио
+ нные занятия
+LOCATION:209А
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Обработка данных цифрового следа
+DTSTART:20261231T120500
+DTEND:20261231T133500
+UID:7849d0162ea29c115ca84990196baed38edfab33@schedule-sync
+DESCRIPTION:Преподаватель: Черёмухин А. Д.\nЛек
+ ционные занятия
+LOCATION:214
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Обработка данных цифрового следа
+DTSTART:20261231T152500
+DTEND:20261231T165500
+UID:27f185b54654fd4fae1a016e61b76bac107c85eb@schedule-sync
+DESCRIPTION:Преподаватель: Криволапов И. В.\nПр
+ актические занятия
+LOCATION:Дистанционно
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Защита информации
+DTSTART:20270101T120500
+DTEND:20270101T133500
+UID:731e3a1641732cf56c2f2839d8f5c5a93c939ae8@schedule-sync
+DESCRIPTION:Преподаватель: Абувалов М. А.\nПрак
+ тические занятия
+LOCATION:210
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Разработка информационных систем с 
+ цифровым следом
+DTSTART:20270101T134500
+DTEND:20270101T151500
+UID:61589fc6e0a21499958a57edf702ad7993864bc6@schedule-sync
+DESCRIPTION:Преподаватель: Митин А. Н.\nПрактич
+ еские занятия
+LOCATION:207
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Методы машинного обучения
+DTSTART:20270104T134500
+DTEND:20270104T151500
+UID:b635c161ac2875e15c398c31d71d2b2f18905c15@schedule-sync
+DESCRIPTION:Преподаватель: Черёмухин А. Д.\nПра
+ ктические занятия
+LOCATION:209А
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Разработка информационных систем с 
+ цифровым следом
+DTSTART:20270105T134500
+DTEND:20270105T151500
+UID:2dd97eea5757a7fc88232336bd962c8cefd57208@schedule-sync
+DESCRIPTION:Преподаватель: Черёмухин А. Д.\nЛек
+ ционные занятия
+LOCATION:217
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Развертывание моделей в предметной 
+ среде
+DTSTART:20270105T152500
+DTEND:20270105T165500
+UID:15df8fe947b811c20f28989e07b115604a5901a4@schedule-sync
+DESCRIPTION:Преподаватель: Черёмухин А. Д.\nПра
+ ктические занятия
+LOCATION:214А
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Методы машинного обучения
+DTSTART:20270106T134500
+DTEND:20270106T151500
+UID:4331f02979ad0cdc80732f49881aa05a95f3aeb9@schedule-sync
+DESCRIPTION:Преподаватель: Черёмухин А. Д.\nПра
+ ктические занятия
+LOCATION:213
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Методы машинного обучения
+DTSTART:20270106T120500
+DTEND:20270106T133500
+UID:3718d94c92f5c950db74d4fb7e16d5efacd2e363@schedule-sync
+DESCRIPTION:Преподаватель: Черёмухин А. Д.\nПра
+ ктические занятия
+LOCATION:219
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Управление проектами в профессиона
+ льной деятельности
+DTSTART:20270106T152500
+DTEND:20270106T165500
+UID:d906260b96fe51bdbacf39daa7cca3e51c5842df@schedule-sync
+DESCRIPTION:Преподаватель: Сутягина Н. И.\nПрак
+ тические занятия
+LOCATION:214А
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Сети и телекоммуникации
+DTSTART:20270107T120500
+DTEND:20270107T133500
+UID:8d4396944bae67a3f36b521cb39724e4abdd48cf@schedule-sync
+DESCRIPTION:Преподаватель: Толикина М. Ю.\nЛекц
+ ионные занятия
+LOCATION:221В
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Обработка данных цифрового следа
+DTSTART:20270107T152500
+DTEND:20270107T165500
+UID:360e4d84c6abb2fbbe3460958259cc30a91ff6f5@schedule-sync
+DESCRIPTION:Преподаватель: Криволапов И. В.\nПр
+ актические занятия
+LOCATION:Дистанционно
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Защита информации
+DTSTART:20270108T120500
+DTEND:20270108T133500
+UID:95556af3c59cba6ba7b3cf2031b148e1ff5bc4ed@schedule-sync
+DESCRIPTION:Преподаватель: Абувалов М. А.\nЛекц
+ ионные занятия
+LOCATION:210
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Разработка информационных систем с 
+ цифровым следом
+DTSTART:20270108T134500
+DTEND:20270108T151500
+UID:0dec4b852d2fdfc00603eb2d33555ef1a4a0f207@schedule-sync
+DESCRIPTION:Преподаватель: Митин А. Н.\nПрактич
+ еские занятия
+LOCATION:207
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Методы машинного обучения
+DTSTART:20270111T134500
+DTEND:20270111T151500
+UID:32b360025f4eab15e7d73711e822a6bbf0038c92@schedule-sync
+DESCRIPTION:Преподаватель: Черёмухин А. Д.\nПра
+ ктические занятия
+LOCATION:209А
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Методы машинного обучения
+DTSTART:20270112T134500
+DTEND:20270112T151500
+UID:002b9a9da477388ff323693b55996386c0be0cdf@schedule-sync
+DESCRIPTION:Преподаватель: Черёмухин А. Д.\nЛек
+ ционные занятия
+LOCATION:207
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Развертывание моделей в предметной 
+ среде
+DTSTART:20270112T152500
+DTEND:20270112T165500
+UID:7e6c3a41a993db5c2fe1f4ae36c30a58caeca982@schedule-sync
+DESCRIPTION:Преподаватель: Черёмухин А. Д.\nПра
+ ктические занятия
+LOCATION:214А
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Развертывание моделей в предметной 
+ среде
+DTSTART:20270113T134500
+DTEND:20270113T151500
+UID:226e9afa81e1a2e715bffb269d86522ae93954aa@schedule-sync
+DESCRIPTION:Преподаватель: Черёмухин А. Д.\nЛек
+ ционные занятия
+LOCATION:213
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Методы машинного обучения
+DTSTART:20270113T120500
+DTEND:20270113T133500
+UID:5027c46a862ebf8e653707e9230415953752502d@schedule-sync
+DESCRIPTION:Преподаватель: Черёмухин А. Д.\nПра
+ ктические занятия
+LOCATION:219
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Управление проектами в профессиона
+ льной деятельности
+DTSTART:20270113T152500
+DTEND:20270113T165500
+UID:81d8ca243335cd4c1cdaf62fa98dac95bd41adea@schedule-sync
+DESCRIPTION:Преподаватель: Сутягина Н. И.\nПрак
+ тические занятия
+LOCATION:214А
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Сети и телекоммуникации
+DTSTART:20270114T094000
+DTEND:20270114T111000
+UID:66b4aeff3511e7066e18d88e014d2f56248bd94c@schedule-sync
+DESCRIPTION:Преподаватель: Толикина М. Ю.\nЛекц
+ ионные занятия
+LOCATION:219
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Управление проектами в профессиона
+ льной деятельности
+DTSTART:20270114T134500
+DTEND:20270114T151500
+UID:32639a76e89ab0f3bf3de71672b8615c127f57f3@schedule-sync
+DESCRIPTION:Преподаватель: Иванов И. А.\nЛекцио
+ нные занятия
+LOCATION:209А
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Обработка данных цифрового следа
+DTSTART:20270114T120500
+DTEND:20270114T133500
+UID:51a5d891429ab7a365482ebbb03a0eb0f603ade5@schedule-sync
+DESCRIPTION:Преподаватель: Черёмухин А. Д.\nЛек
+ ционные занятия
+LOCATION:214
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Обработка данных цифрового следа
+DTSTART:20270114T152500
+DTEND:20270114T165500
+UID:8aac681048fa9b411595eebda532ab315e9c0ab8@schedule-sync
+DESCRIPTION:Преподаватель: Криволапов И. В.\nПр
+ актические занятия
+LOCATION:Дистанционно
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Защита информации
+DTSTART:20270115T120500
+DTEND:20270115T133500
+UID:6427e976739908df35e6c2cd4a867244cf50dfa8@schedule-sync
+DESCRIPTION:Преподаватель: Абувалов М. А.\nПрак
+ тические занятия
+LOCATION:210
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Разработка информационных систем с 
+ цифровым следом
+DTSTART:20270115T134500
+DTEND:20270115T151500
+UID:2385e851253594412250ebc6927ce019c297a5cc@schedule-sync
+DESCRIPTION:Преподаватель: Митин А. Н.\nПрактич
+ еские занятия
+LOCATION:207
+END:VEVENT
+END:VCALENDAR
