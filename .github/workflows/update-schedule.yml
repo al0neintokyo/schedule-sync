@@ -12,6 +12,9 @@ on:
     - cron: "0 21 * * *"   # 00:00 по НН — полночь
   workflow_dispatch: {}     # чтобы можно было запустить руками для проверки
 
+permissions:
+  contents: write
+
 jobs:
   update-ics:
     runs-on: ubuntu-latest
