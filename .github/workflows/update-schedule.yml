@@ -1,0 +1,35 @@
+name: Update schedule ICS
+
+on:
+  schedule:
+    # Время указано в UTC. Нижний Новгород = UTC+3 (без перевода часов).
+    - cron: "30 4 * * *"   # 07:30 по НН — утренняя проверка
+    - cron: "45 6 * * *"   # 09:45 по НН — после 1 пары (если она 08:00-09:30)
+    - cron: "15 8 * * *"   # 11:15 по НН — после 2 пары
+    - cron: "40 10 * * *"  # 13:40 по НН — после 3 пары
+    - cron: "20 12 * * *"  # 15:20 по НН — после 4 пары
+    - cron: "0 14 * * *"   # 17:00 по НН — после 5 пары
+    - cron: "0 21 * * *"   # 00:00 по НН — полночь
+  workflow_dispatch: {}     # чтобы можно было запустить руками для проверки
+
+jobs:
+  update-ics:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - run: pip install requests icalendar
+
+      - run: python3 schedule_sync.py
+
+      - name: Commit updated ics
+        run: |
+          git config user.name "schedule-bot"
+          git config user.email "schedule-bot@users.noreply.github.com"
+          git add schedule.ics
+          git diff --cached --quiet && echo "Нет изменений" || git commit -m "Обновление расписания"
+          git push
