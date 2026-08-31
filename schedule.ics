@@ -3,24 +3,38 @@ VERSION:2.0
 PRODID:-//schedule-sync//ru//
 X-WR-CALNAME:Расписание
 BEGIN:VEVENT
-SUMMARY:Разработка информационных систем с 
- цифровым следом
-DTSTART:20260901T134500
-DTEND:20260901T151500
-UID:e3b3034ab441265c0e9cc9a3cbc6e42cb2c40f37@schedule-sync
-DESCRIPTION:Преподаватель: Черёмухин А. Д.\nЛек
- ционные занятия
-LOCATION:217
+SUMMARY:[ИЗМЕНЕНО] Кураторский час
+DTSTART:20260901T094000
+DTEND:20260901T111000
+UID:c71d2a90809e1faf221fe03f2b30324b0e0656bf@schedule-sync
+DESCRIPTION:Преподаватель: Сутягина О. В.
+LOCATION:221А-2
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Развертывание моделей в предметной 
- среде
+SUMMARY:[ИЗМЕНЕНО] Методы машинного обучени
+ я
+DTSTART:20260901T112000
+DTEND:20260901T125000
+UID:e570ee1af3419f58bb2f54fd379bab5b0919746f@schedule-sync
+DESCRIPTION:Преподаватель: Черёмухин А. Д.\nЛек
+ ционные занятия
+LOCATION:221Б
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[ИЗМЕНЕНО] Нет пар
+DTSTART:20260901T134500
+DTEND:20260901T151500
+UID:deab98d0704e6a91a96e90252e2042c2a54dacff@schedule-sync
+DESCRIPTION:Преподаватель: 
+LOCATION:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[ИЗМЕНЕНО] Нет пар
 DTSTART:20260901T152500
 DTEND:20260901T165500
-UID:5f7f159601ce1d26ebc487fbe8984d5c6674408d@schedule-sync
-DESCRIPTION:Преподаватель: Черёмухин А. Д.\nПра
- ктические занятия
-LOCATION:214А
+UID:fe0d5f7a6419831d8ecac8cf583f7906b7021bb7@schedule-sync
+DESCRIPTION:Преподаватель: 
+LOCATION:
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Методы машинного обучения
