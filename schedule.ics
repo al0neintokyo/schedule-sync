@@ -21,6 +21,16 @@ DESCRIPTION:Преподаватель: Черёмухин А. Д.\nЛек
 LOCATION:221Б
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:[ИЗМЕНЕНО] Обработка данных цифрово
+ го следа
+DTSTART:20260903T134500
+DTEND:20260903T151500
+UID:36603aacf8fd5c696bd0ff5ecca7623035f8c289@schedule-sync
+DESCRIPTION:Преподаватель: Черёмухин А. Д.\nЛек
+ ционные занятия
+LOCATION:209А
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:[ИЗМЕНЕНО] Нет пар
 DTSTART:20260901T134500
 DTEND:20260901T151500
