@@ -22,7 +22,7 @@ import hashlib
 import datetime
 import requests
 
-from google.oauth2.service_account import Credentials
+from google.oauth2.credentials import Credentials
 from googleapiclient.discovery import build
 
 # ======================= НАСТРОЙКИ (поменять под себя) =======================
@@ -42,8 +42,9 @@ LOCAL_SAMPLE_PATH = "sample_schedule.json"
 
 # Данные для Google Calendar API. В GitHub Actions придут из secrets через env,
 # для локального теста можно временно вписать значения прямо тут.
-# GOOGLE_SERVICE_ACCOUNT_JSON - содержимое JSON-ключа сервисного аккаунта целиком.
-GOOGLE_SERVICE_ACCOUNT_JSON = os.environ.get("GOOGLE_SERVICE_ACCOUNT_JSON", "")
+GOOGLE_CLIENT_ID = os.environ.get("GOOGLE_CLIENT_ID", "")
+GOOGLE_CLIENT_SECRET = os.environ.get("GOOGLE_CLIENT_SECRET", "")
+GOOGLE_REFRESH_TOKEN = os.environ.get("GOOGLE_REFRESH_TOKEN", "")
 GOOGLE_CALENDAR_ID = os.environ.get("GOOGLE_CALENDAR_ID", "")
 
 MANAGED_TAG = "schedule_sync"  # метка, по которой узнаём "свои" события
@@ -212,9 +213,13 @@ def event_needs_update(existing: dict, desired_body: dict) -> bool:
 
 
 def get_calendar_service():
-    info = json.loads(GOOGLE_SERVICE_ACCOUNT_JSON)
-    creds = Credentials.from_service_account_info(
-        info, scopes=["https://www.googleapis.com/auth/calendar"]
+    creds = Credentials(
+        token=None,
+        refresh_token=GOOGLE_REFRESH_TOKEN,
+        client_id=GOOGLE_CLIENT_ID,
+        client_secret=GOOGLE_CLIENT_SECRET,
+        token_uri="https://oauth2.googleapis.com/token",
+        scopes=["https://www.googleapis.com/auth/calendar"],
     )
     return build("calendar", "v3", credentials=creds)
 
