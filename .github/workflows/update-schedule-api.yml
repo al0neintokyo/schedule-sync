@@ -1,0 +1,33 @@
+name: Sync schedule to Google Calendar
+
+on:
+  schedule:
+    # Время указано в UTC. Нижний Новгород = UTC+3 (без перевода часов).
+    - cron: "30 4 * * *"   # 07:30 по НН — утренняя проверка
+    - cron: "45 6 * * *"   # 09:45 по НН — после 1 пары
+    - cron: "15 8 * * *"   # 11:15 по НН — после 2 пары
+    - cron: "40 10 * * *"  # 13:40 по НН — после 3 пары
+    - cron: "20 12 * * *"  # 15:20 по НН — после 4 пары
+    - cron: "0 14 * * *"   # 17:00 по НН — после 5 пары
+    - cron: "0 21 * * *"   # 00:00 по НН — полночь
+  workflow_dispatch: {}     # чтобы можно было запустить руками для проверки
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - run: pip install requests google-auth google-auth-oauthlib google-api-python-client
+
+      - name: Run sync
+        env:
+          GOOGLE_CLIENT_ID: ${{ secrets.GOOGLE_CLIENT_ID }}
+          GOOGLE_CLIENT_SECRET: ${{ secrets.GOOGLE_CLIENT_SECRET }}
+          GOOGLE_REFRESH_TOKEN: ${{ secrets.GOOGLE_REFRESH_TOKEN }}
+          GOOGLE_CALENDAR_ID: ${{ secrets.GOOGLE_CALENDAR_ID }}
+        run: python3 schedule_sync_api.py
